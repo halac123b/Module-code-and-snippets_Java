@@ -11,5 +11,10 @@ public class HelloWorld {
 		System.out.println("Concat string " + a);
 
 		Scanner scanner = new Scanner(System.in);
+		System.out.println("Type in your age:");
+		int age = scanner.nextInt();
+		System.out.println("Type in your name:");
+		String name = scanner.nextLine();
+		scanner.close();
 	}
 }
