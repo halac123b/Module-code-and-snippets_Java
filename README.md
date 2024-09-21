@@ -3,3 +3,4 @@
 List of modules:
 
 1. Getting started and learn syntax
+2. Cannon simulator
